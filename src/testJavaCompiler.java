@@ -9,6 +9,7 @@ public class testJavaCompiler {
 		for(int i = 0; i<20 ;i++) {
 			System.out.println(1+i);
 		}
+		System.out.println("出現conflict");
 	}
 
 }
