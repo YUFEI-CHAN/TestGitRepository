@@ -32,6 +32,7 @@ public class testJavaCompiler {
     System.out.println("再來處理merge");
     System.out.println("sourcetree沒出現 誰merge到誰，換cherry pick");
 System.out.println("merge to master");
+System.out.println("test cherry pirck pick");
 	}
 
 }
