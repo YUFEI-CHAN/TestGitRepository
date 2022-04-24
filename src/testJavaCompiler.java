@@ -33,7 +33,7 @@ public class testJavaCompiler {
     System.out.println("sourcetree沒出現 誰merge到誰，換cherry pick");
 
     System.out.println("再合併一次");
-
+   System.out.println("測試");
 
 	}
 
