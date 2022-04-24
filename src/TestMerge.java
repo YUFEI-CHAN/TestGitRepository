@@ -9,10 +9,11 @@ public class TestMerge {
 	
 	private boolean b = true;
 
+	private String xs;
 	public String getX() {
 		return x;
 	}
-
+	
 	public void setX(String x) {
 		this.x = x;
 	}
