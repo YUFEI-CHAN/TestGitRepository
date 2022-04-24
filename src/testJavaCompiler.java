@@ -16,9 +16,21 @@ public class testJavaCompiler {
 		for(int i = 0 ; i< 21 ; i++) {
 			System.out.println(e+i);
 		}
+
+		System.out.println("測試衝突");
+
+
 		System.out.println("3434");
     System.out.println("出現conflict");
-    System.out.println("424");
+   
+
+
+    System.out.println("出現conflict");
+    System.out.println("測試衝突");
+    System.out.println("pull master to testNewBranch");
+    
+    System.out.println("再來處理merge");
+    System.out.println("sourcetree沒出現 誰merge到誰，換cherry pick");
 
     System.out.println("再合併一次");
    System.out.println("測試");
