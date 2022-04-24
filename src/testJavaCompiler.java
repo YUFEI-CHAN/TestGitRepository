@@ -20,6 +20,8 @@ public class testJavaCompiler {
     System.out.println("出現conflict");
     System.out.println("424");
 
+    System.out.println("再合併一次");
+
 	}
 
 }
