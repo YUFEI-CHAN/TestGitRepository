@@ -10,6 +10,25 @@ public class TestMerge {
 	private boolean b = true;
 
 	private String xs;
+	
+	private String cherryPick;
+	
+	public String getXs() {
+		return xs;
+	}
+
+	public void setXs(String xs) {
+		this.xs = xs;
+	}
+
+	public String getCherryPick() {
+		return cherryPick;
+	}
+
+	public void setCherryPick(String cherryPick) {
+		this.cherryPick = cherryPick;
+	}
+
 	public String getX() {
 		return x;
 	}
