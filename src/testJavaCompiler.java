@@ -21,7 +21,7 @@ public class testJavaCompiler {
     System.out.println("424");
 
     System.out.println("再合併一次");
-
+   System.out.println("測試");
 	}
 
 }
