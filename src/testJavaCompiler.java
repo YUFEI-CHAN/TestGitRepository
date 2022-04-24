@@ -16,10 +16,16 @@ public class testJavaCompiler {
 		for(int i = 0 ; i< 21 ; i++) {
 			System.out.println(e+i);
 		}
+
 		System.out.println("3434");
     System.out.println("出現conflict");
-    System.out.println("424");
+   
 
+
+		
+    System.out.println("出現conflict");
+    System.out.println("測試衝突");
+    
 	}
 
 }
